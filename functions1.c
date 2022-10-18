@@ -4,7 +4,7 @@
 /**
 * print_unsigned - Prints an unsigned number
 * @types: List a of arguments
-* @buffer: Buffer array to handle print
+* @buffer: Buffer array to handle prints
 * @flags:  Calculates active flags
 * @width: get the width
 * @precision: Precision specification
